@@ -1,5 +1,7 @@
 # wallet_app
 
+![Screenshot 2023-05-11 235205](https://github.com/KarimNour0/Medical_App/assets/133063362/66cd1786-a533-47c3-b15f-1748f16fbe1e)
+
 ![Screenshot 2023-05-11 234450](https://github.com/KarimNour0/Medical_App/assets/133063362/2cdf022e-a256-4e0c-a5dc-b56866ed707b)
 
 ## Getting Started
